@@ -5,7 +5,7 @@
     <meta http-equiv="refresh" content="0;url=dist/index.php">
     <title>Eartquake</title>
     <script language="javascript">
-        window.location.href = "dist/indexhehee.php"
+        window.location.href = "dist/index.php"
     </script>
 </head>
 
