@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    Go to <a href="dist/index.php">index.php</a>
+    Go to <a href="dist/index.php">indexhehehee.php</a>
 </body>
 
 </html>
